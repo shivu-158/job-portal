@@ -1,0 +1,20 @@
+
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "TechNova",
+      "location": "Coimbatore"
+    },
+    {
+      "id": "2",
+      "title": "Cyber Security Analyst",
+      "company": "SecureNet",
+      "location": "Chennai"
+    }
+  ],
+  "applications": [],
+  "savedJobs": [],
+  "profiles": []
+}
